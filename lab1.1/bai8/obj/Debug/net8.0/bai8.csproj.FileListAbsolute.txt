@@ -1,0 +1,14 @@
+E:\Code\Visual Studio\hoc lai\lab1.1\bai1\bai8\bin\Debug\net8.0\bai8.exe
+E:\Code\Visual Studio\hoc lai\lab1.1\bai1\bai8\bin\Debug\net8.0\bai8.deps.json
+E:\Code\Visual Studio\hoc lai\lab1.1\bai1\bai8\bin\Debug\net8.0\bai8.runtimeconfig.json
+E:\Code\Visual Studio\hoc lai\lab1.1\bai1\bai8\bin\Debug\net8.0\bai8.dll
+E:\Code\Visual Studio\hoc lai\lab1.1\bai1\bai8\bin\Debug\net8.0\bai8.pdb
+E:\Code\Visual Studio\hoc lai\lab1.1\bai1\bai8\obj\Debug\net8.0\bai8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Visual Studio\hoc lai\lab1.1\bai1\bai8\obj\Debug\net8.0\bai8.AssemblyInfoInputs.cache
+E:\Code\Visual Studio\hoc lai\lab1.1\bai1\bai8\obj\Debug\net8.0\bai8.AssemblyInfo.cs
+E:\Code\Visual Studio\hoc lai\lab1.1\bai1\bai8\obj\Debug\net8.0\bai8.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\hoc lai\lab1.1\bai1\bai8\obj\Debug\net8.0\bai8.dll
+E:\Code\Visual Studio\hoc lai\lab1.1\bai1\bai8\obj\Debug\net8.0\refint\bai8.dll
+E:\Code\Visual Studio\hoc lai\lab1.1\bai1\bai8\obj\Debug\net8.0\bai8.pdb
+E:\Code\Visual Studio\hoc lai\lab1.1\bai1\bai8\obj\Debug\net8.0\bai8.genruntimeconfig.cache
+E:\Code\Visual Studio\hoc lai\lab1.1\bai1\bai8\obj\Debug\net8.0\ref\bai8.dll

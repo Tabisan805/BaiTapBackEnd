@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDF3DFC-FCC0-439F-B333-A1A7662A2899}|..\\ConsoleApp1\\bai10.csproj|e:\\code\\visual studio\\hoc lai\\lab1.1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9334E6E4-0DEC-4EAB-AFB2-5B00B8AD6D45}|..\\bai9\\bai9.csproj|e:\\code\\visual studio\\hoc lai\\lab1.1\\bai9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539DEE40-F963-494C-A7D0-12D98CAD79C6}|bai8\\bai8.csproj|e:\\code\\visual studio\\hoc lai\\lab1.1\\bai1\\bai8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539DEE40-F963-494C-A7D0-12D98CAD79C6}|bai8\\bai8.csproj|solutionrelative:bai8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DB12A1-9A0C-476D-9BC6-E679AF40E7DA}|..\\..\\bai6\\bai6.csproj|e:\\code\\visual studio\\hoc lai\\bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F80879-51BB-4F80-872C-5A35DC239ED6}|..\\bai5\\bai5.csproj|e:\\code\\visual studio\\hoc lai\\lab1.1\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AAF446-58D8-4F70-A508-08449BA2D617}|bai 7\\bai7.csproj|e:\\code\\visual studio\\hoc lai\\lab1.1\\bai1\\bai 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AAF446-58D8-4F70-A508-08449BA2D617}|bai 7\\bai7.csproj|solutionrelative:bai 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD08AB-135A-4524-94F8-CC9BF6CEB642}|..\\bai 4\\bai4.csproj|e:\\code\\visual studio\\hoc lai\\lab1.1\\bai 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60CC1E3-F2FC-4346-8D92-E7C4B39D0CEC}|..\\bai 3\\bai3.csproj|e:\\code\\visual studio\\hoc lai\\lab1.1\\bai 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D81CE1-CBAB-4A3A-B96F-B6ADC9718FAC}|..\\bai 2\\bai2.csproj|e:\\code\\visual studio\\hoc lai\\lab1.1\\bai 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:17:47.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\bai9\\Program.cs",
+              "ToolTip": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai9\\Program.cs",
+              "RelativeToolTip": "..\\bai9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:05:06.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai1\\bai8\\Program.cs",
+              "RelativeDocumentMoniker": "bai8\\Program.cs",
+              "ToolTip": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai1\\bai8\\Program.cs",
+              "RelativeToolTip": "bai8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:59:37.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai1\\bai 7\\Program.cs",
+              "RelativeDocumentMoniker": "bai 7\\Program.cs",
+              "ToolTip": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai1\\bai 7\\Program.cs",
+              "RelativeToolTip": "bai 7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:48:43.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Visual Studio\\hoc lai\\bai6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\bai6\\Program.cs",
+              "ToolTip": "E:\\Code\\Visual Studio\\hoc lai\\bai6\\Program.cs",
+              "RelativeToolTip": "..\\..\\bai6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:42:04.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\bai5\\Program.cs",
+              "ToolTip": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai5\\Program.cs",
+              "RelativeToolTip": "..\\bai5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:39:39.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai 4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\bai 4\\Program.cs",
+              "ToolTip": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai 4\\Program.cs",
+              "RelativeToolTip": "..\\bai 4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:36:19.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai 3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\bai 3\\Program.cs",
+              "ToolTip": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai 3\\Program.cs",
+              "RelativeToolTip": "..\\bai 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:32:51.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai 2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\bai 2\\Program.cs",
+              "ToolTip": "E:\\Code\\Visual Studio\\hoc lai\\lab1.1\\bai 2\\Program.cs",
+              "RelativeToolTip": "..\\bai 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:29:53.5Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
