@@ -1,0 +1,14 @@
+E:\Code\Visual Studio\hoc lai\lab1.1\test\test\bin\Debug\net8.0\test.exe
+E:\Code\Visual Studio\hoc lai\lab1.1\test\test\bin\Debug\net8.0\test.deps.json
+E:\Code\Visual Studio\hoc lai\lab1.1\test\test\bin\Debug\net8.0\test.runtimeconfig.json
+E:\Code\Visual Studio\hoc lai\lab1.1\test\test\bin\Debug\net8.0\test.dll
+E:\Code\Visual Studio\hoc lai\lab1.1\test\test\bin\Debug\net8.0\test.pdb
+E:\Code\Visual Studio\hoc lai\lab1.1\test\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Visual Studio\hoc lai\lab1.1\test\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+E:\Code\Visual Studio\hoc lai\lab1.1\test\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+E:\Code\Visual Studio\hoc lai\lab1.1\test\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\hoc lai\lab1.1\test\test\obj\Debug\net8.0\test.dll
+E:\Code\Visual Studio\hoc lai\lab1.1\test\test\obj\Debug\net8.0\refint\test.dll
+E:\Code\Visual Studio\hoc lai\lab1.1\test\test\obj\Debug\net8.0\test.pdb
+E:\Code\Visual Studio\hoc lai\lab1.1\test\test\obj\Debug\net8.0\test.genruntimeconfig.cache
+E:\Code\Visual Studio\hoc lai\lab1.1\test\test\obj\Debug\net8.0\ref\test.dll
